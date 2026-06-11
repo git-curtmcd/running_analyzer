@@ -218,6 +218,7 @@ Respond with:
 2. Likely form priorities
 3. 3 specific cues or drills to try next run
 4. What video angle or extra data would improve the analysis
+5. A professional runner i should strive to be like based off the current results and why
 """.strip()
 
 
